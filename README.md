@@ -18,7 +18,12 @@ It allows users to explore:
 - Live matches  
 - Upcoming matches  
 - Historical trends
-  
+
+  ## 📸 Dashboard Screens
+
+<img src="Dashboard_Previews/dashboard_1.png" width="800"/>
+<img src="Dashboard_Previews/dashboard_2.png" width="800"/>
+<img src="Dashboard_Previews/dashboard_3.png" width="800"/>
 ---
 
 ## 🎯 Objective
