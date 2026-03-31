@@ -19,11 +19,16 @@ It allows users to explore:
 - Upcoming matches  
 - Historical trends
 
-  ## 📸 Dashboard Screens
+## 📸 Dashboard Preview
 
-<img src="Dashboard_Previews/dashboard_Preview 1.png" width="800"/>
-<img src="Dashboard_Previews/dashboard_Preview 2" width="800"/>
-<img src="Dashboard_Previews/dashboard_Preview 3" width="800"/>
+### 🏠 Home Page
+![Home](Dashboard_Previews/Dashboard_Preview_1.png)
+
+### 📊 KPIs & Metrics
+![KPIs](Dashboard_Previews/Dashboard_Preview_2.png)
+
+### 📈 Visualizations
+![Visuals](Dashboard_Previews/Dashboard_Preview_3.png)
 ---
 
 ## 🎯 Objective
