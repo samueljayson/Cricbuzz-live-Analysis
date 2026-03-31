@@ -17,10 +17,8 @@ The dashboard aggregates data from multiple sources, including:
 It allows users to explore:
 - Live matches  
 - Upcoming matches  
-- Historical trends  
-
-👉 As shown in the dashboard (page 16–18 of your report :contentReference[oaicite:0]{index=0}), users can navigate between KPIs, visualizations, and datasets interactively.
-
+- Historical trends
+  
 ---
 
 ## 🎯 Objective
