@@ -21,9 +21,9 @@ It allows users to explore:
 
   ## 📸 Dashboard Screens
 
-<img src="Dashboard_Previews/dashboard_1.png" width="800"/>
-<img src="Dashboard_Previews/dashboard_2.png" width="800"/>
-<img src="Dashboard_Previews/dashboard_3.png" width="800"/>
+<img src="Dashboard_Previews/dashboard_Preview 1.png" width="800"/>
+<img src="Dashboard_Previews/dashboard_Preview 2" width="800"/>
+<img src="Dashboard_Previews/dashboard_Preview 3" width="800"/>
 ---
 
 ## 🎯 Objective
